@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+=======
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+
+>>>>>>> refs/remotes/origin/main
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> refs/remotes/origin/main
